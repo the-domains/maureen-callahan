@@ -1,0 +1,28 @@
+name: Maureen Callahan
+favicon: null
+layout_spectrum: 0.6681848538573831
+typography_spectrum: 0.4188678013160825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11712593911215663
+  lightness: 0.6302913876716048
+  saturation: 0.9723453875631094
+  rhythmicContrast: 0.3881501234136522
+purpose: []
